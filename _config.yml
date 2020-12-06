@@ -39,8 +39,5 @@ version: 3.0.0
 
 # Navbar page list
 nav:
-  - title: rss
-    url: /atom.xml
-
   - title: contact
     url: /contact
